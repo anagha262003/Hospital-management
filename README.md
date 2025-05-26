@@ -1,1 +1,1 @@
-# Hospital-management
+Responsive hospital management website in which you can book appointments, see the doctors schedule, pharmacy bills and many more things. In this website i have used html,css, javascript,jquery and tailwind css.
